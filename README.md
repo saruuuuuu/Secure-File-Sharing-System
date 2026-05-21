@@ -44,7 +44,7 @@ Make sure you are using Python 3.12 or later.
 These instructions will help you get set up with a local development environment
 
 Clone the repository:
-git clone https://github.com/yashanksingh/Secure-File-Sharing-System.git
+git clone : https://github.com/saruuuuuu/Secure-File-Sharing-System.git
 cd Secure-File-Sharing-System
 Set up a virtual environment:
 python -m venv venv
